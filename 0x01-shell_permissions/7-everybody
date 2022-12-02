@@ -1,0 +1,2 @@
+#!/bn/bash
+chmod ugo+x hello
