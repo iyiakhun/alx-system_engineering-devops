@@ -1,0 +1,2 @@
+#!/bin/bash
+iecho $PATH | tr ':' '\m' | wc -l
